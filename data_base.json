@@ -1,0 +1,26 @@
+[
+  {
+    "surname": "Maximov",
+    "name": " Ivan",
+    "tel": " 1234",
+    "comment": "work"
+  },
+  {
+    "surname": "Max",
+    "name": " Artur",
+    "tel": " 889382",
+    "comment": "private"
+  },
+  {
+    "surname": "Ivanov",
+    "name": " Roma",
+    "tel": " 1234434",
+    "comment": "work"
+  },
+  {
+    "surname": "Petrov",
+    "name": " Iaroslav",
+    "tel": " 12111134",
+    "comment": "private"
+  }
+]
